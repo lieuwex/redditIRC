@@ -1,0 +1,23 @@
+{
+  "name": "redditIRC",
+  "version": "1.0.0",
+  "description": "A quick way to look somebody up on reddit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lieuwe Rooijakkers <lieuwerooijakkers@gmail.com> (http://lieuwex.github.io/)",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lieuwex/redditIRC.git"
+  },
+  "dependencies": {
+    "irc": "^0.3.7",
+    "moment": "^2.8.3",
+    "request": "^2.46.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
